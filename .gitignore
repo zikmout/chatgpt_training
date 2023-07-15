@@ -1,0 +1,4 @@
+.env.local
+/VENV
+.env
+.ipynb_checkpoints/
